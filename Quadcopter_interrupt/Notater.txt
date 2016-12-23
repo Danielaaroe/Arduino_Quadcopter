@@ -1,0 +1,5 @@
+2016-12-08
+Testet og skalert alt. Alt går riktig vei.
+
+Til neste gang: Det virker som det er stor tidsforsinkelse mellom endring i vinkel og motor. Sjekk hvor denne ligger og tune filteret slik at det er så raskt som mulig.
+Sikkert hensiktsmessig å bruke potmeter og låne en analog inngang fra en annen akse til å visualisere tidsforsinkelsen.
